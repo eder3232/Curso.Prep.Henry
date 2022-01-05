@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: url(https://placekitten.com/1920/1080) no-repeat center center
+    fixed;
+  height: 100%;
+  color: white;
+}
+
+h1 {
+  color: tomato;
+}
+
+div {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: greenyellow;
+  padding: 50px;
+  border: 2px solid green;
+}
+
+#spanId {
+  font-size: 10px;
+}
